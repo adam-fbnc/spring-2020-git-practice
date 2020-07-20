@@ -11,3 +11,5 @@ Ferrari
 Jeep
 Bentley
 Jaguar
+Nissan
+Tesla
