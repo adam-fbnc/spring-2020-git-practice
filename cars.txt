@@ -1,3 +1,8 @@
 Toyota
 Mazda
 Honda
+KIA
+Volvo
+Tata
+SEAT
+Opel
