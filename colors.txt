@@ -5,3 +5,8 @@ yellow
 blue
 black
 gray
+orange
+brown
+white
+pistachio
+peach
