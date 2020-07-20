@@ -13,3 +13,5 @@ Bentley
 Jaguar
 Nissan
 Tesla
+Lada
+Niva
