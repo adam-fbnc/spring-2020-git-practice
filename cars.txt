@@ -13,5 +13,10 @@ Bentley
 Jaguar
 Nissan
 Tesla
+<<<<<<< HEAD
 Proton
 Tofas
+=======
+Lada
+Niva
+>>>>>>> 290720f0886cd41d88735a1c064ccb54f5951796
