@@ -4,3 +4,4 @@ violet
 yellow
 blue
 black
+gray
