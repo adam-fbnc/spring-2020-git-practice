@@ -13,7 +13,6 @@ Bentley
 Jaguar
 Nissan
 Tesla
-<<<<<<< HEAD
 Proton
 Tofas
 Lada
