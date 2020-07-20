@@ -6,3 +6,8 @@ Volvo
 Tata
 SEAT
 Opel
+BMW
+Ferrari
+Jeep
+Bentley
+Jaguar
